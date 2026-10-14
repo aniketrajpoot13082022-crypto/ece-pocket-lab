@@ -294,7 +294,8 @@ Tkinter is included with many standard Python installations.
 Clone the repository using Git:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ece-pocket-lab.git
+git clone https://github.com/aniketrajpoot13082022-crypto
+/ece-pocket-lab.git
 ```
 
 Replace `YOUR-USERNAME` with your GitHub username.

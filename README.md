@@ -298,8 +298,6 @@ git clone https://github.com/aniketrajpoot13082022-crypto
 /ece-pocket-lab.git
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
-
 Alternatively, download the repository as a ZIP file from GitHub and extract it.
 
 ### Step 2: Open the Python File
